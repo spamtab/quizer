@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "question": "What is the correct syntax for referring to an external JavaScript file?",
+    "options": [
+      "<script href=\"app.js\">", "<script name=\"app.js\">", "<script src=\"app.js\">", "<script file=\"app.js\">"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Web Development", "topic": "JavaScript Basics" }
+  },
+  {
+    "id": 5,
+    "question": "How do you declare a JavaScript variable?",
+    "options": [
+      "variable carName;", "var carName;", "v carName;", "declare carName;"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "JavaScript", "topic": "Variables" }
+  },
+  {
+    "id": 6,
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*", "-", "=", "x"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "JavaScript", "topic": "Operators" }
+  },
+  {
+    "id": 4,
+    "question": "Which built-in method returns the length of a string?",
+    "options": [
+      "length()", "size()", "index()", "length"
+    ],
+    "correctOption": 4,
+    "subject": { "name": "JavaScript", "topic": "String Methods" }
+  }
+]

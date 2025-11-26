@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Web Development", "topic": "HTML Basics" }
+  },
+  {
+    "id": 8,
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>", "<script>", "<style>", "<styles>"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Web Development", "topic": "HTML Basics" }
+  },
+  {
+    "id": 16,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": [
+      "styles", "style", "class", "font"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Web Development", "topic": "HTML Basics" }
+  }
+]

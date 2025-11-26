@@ -1,32 +1,35 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue'
 import { useRouter } from 'vue-router'
-import questionsData from '../data/questions.json'
+
 
 const router = useRouter()
 
-// Settings state
+
+// Set a static max question count (update as needed)
+const MAX_QUESTIONS = 20
 const questionCount = ref(10)
 const shuffleQuestions = ref(true)
 const selectedSubject = ref('all')
 const selectedTopic = ref('all')
 
-// Extract unique subjects and topics from questions
-const subjects = computed(() => {
-  const uniqueSubjects = [...new Set(questionsData.map(q => q.subject.name))]
-  return ['all', ...uniqueSubjects]
-})
+
+// Static subject and topic lists (update as you add more)
+const subjectTopicMap = {
+  'Web Development': ['HTML Basics', 'CSS Basics', 'JavaScript Basics'],
+  'JavaScript': ['Variables', 'Operators', 'String Methods']
+}
+
+const subjects = computed(() => ['all', ...Object.keys(subjectTopicMap)])
 
 const topics = computed(() => {
   if (selectedSubject.value === 'all') {
-    const uniqueTopics = [...new Set(questionsData.map(q => q.subject.topic))]
-    return ['all', ...uniqueTopics]
+    // All topics from all subjects
+    const allTopics = Object.values(subjectTopicMap).flat()
+    return ['all', ...allTopics]
   }
-  const filteredTopics = questionsData
-    .filter(q => q.subject.name === selectedSubject.value)
-    .map(q => q.subject.topic)
-  const uniqueTopics = [...new Set(filteredTopics)]
-  return ['all', ...uniqueTopics]
+  const subjectTopics = subjectTopicMap[selectedSubject.value] || []
+  return ['all', ...subjectTopics]
 })
 
 // Load settings from localStorage on mount
@@ -75,7 +78,7 @@ const onSubjectChange = () => {
 
         <div class="form-group">
           <label class="form-label" for="questionCount">
-            Number of Questions (max {{ questionsData.length }})
+            Number of Questions (max {{ MAX_QUESTIONS }})
           </label>
           <input
             id="questionCount"
@@ -83,7 +86,7 @@ const onSubjectChange = () => {
             type="number"
             class="form-control"
             :min="1"
-            :max="questionsData.length"
+            :max="MAX_QUESTIONS"
           />
         </div>
 

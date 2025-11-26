@@ -3,7 +3,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import QuestionCard from '../components/QuestionCard.vue'
 import ScoreCard from '../components/ScoreCard.vue'
-import questionsData from '../data/questions.json'
+
 
 const router = useRouter()
 
@@ -23,9 +23,20 @@ const shuffleArray = (array) => {
   return shuffled
 }
 
-// Initialize quiz
-const initializeQuiz = () => {
-  // Load settings from localStorage
+// Helper to get file name from subject/topic
+function getFileName(subject, topic) {
+  if (subject === 'Web Development' && topic === 'HTML Basics') return 'webdev_html.json';
+  if (subject === 'Web Development' && topic === 'CSS Basics') return 'webdev_css.json';
+  if (subject === 'JavaScript' && topic === 'Variables') return 'js_basics.json';
+  if (subject === 'JavaScript' && topic === 'Operators') return 'js_basics.json';
+  if (subject === 'JavaScript' && topic === 'String Methods') return 'js_basics.json';
+  if (subject === 'Web Development' && topic === 'JavaScript Basics') return 'js_basics.json';
+  // Add more mappings as needed
+  return null;
+}
+
+// Fetch questions dynamically
+const initializeQuiz = async () => {
   const savedSettings = localStorage.getItem('quizSettings')
   let settings = {
     questionCount: 10,
@@ -33,35 +44,57 @@ const initializeQuiz = () => {
     selectedSubject: 'all',
     selectedTopic: 'all'
   }
-  
   if (savedSettings) {
     settings = { ...settings, ...JSON.parse(savedSettings) }
   }
-  
-  // Filter questions based on settings
-  let filteredQuestions = [...questionsData]
-  
-  if (settings.selectedSubject !== 'all') {
-    filteredQuestions = filteredQuestions.filter(
-      q => q.subject.name === settings.selectedSubject
-    )
+
+  let loadedQuestions = []
+
+  // If all, load all files
+  if (settings.selectedSubject === 'all') {
+    const files = ['webdev_html.json', 'webdev_css.json', 'js_basics.json']
+    for (const file of files) {
+      const res = await fetch(`/src/data/questions/${file}`)
+      if (res.ok) {
+        const data = await res.json()
+        loadedQuestions = loadedQuestions.concat(data)
+      }
+    }
+  } else if (settings.selectedTopic === 'all') {
+    // Load all files for the subject
+    const subjectFiles = {
+      'Web Development': ['webdev_html.json', 'webdev_css.json'],
+      'JavaScript': ['js_basics.json']
+    }
+    const files = subjectFiles[settings.selectedSubject] || []
+    for (const file of files) {
+      const res = await fetch(`/src/data/questions/${file}`)
+      if (res.ok) {
+        const data = await res.json()
+        loadedQuestions = loadedQuestions.concat(data)
+      }
+    }
+  } else {
+    // Load only the file for the subject/topic
+    const file = getFileName(settings.selectedSubject, settings.selectedTopic)
+    if (file) {
+      const res = await fetch(`/src/data/questions/${file}`)
+      if (res.ok) {
+        loadedQuestions = await res.json()
+        // Filter by topic if file contains multiple topics
+        loadedQuestions = loadedQuestions.filter(q => q.subject.topic === settings.selectedTopic)
+      }
+    }
   }
-  
-  if (settings.selectedTopic !== 'all') {
-    filteredQuestions = filteredQuestions.filter(
-      q => q.subject.topic === settings.selectedTopic
-    )
-  }
-  
+
   // Shuffle if enabled
   if (settings.shuffleQuestions) {
-    filteredQuestions = shuffleArray(filteredQuestions)
+    loadedQuestions = shuffleArray(loadedQuestions)
   }
-  
   // Limit to question count
-  const questionLimit = Math.min(settings.questionCount, filteredQuestions.length)
-  quizQuestions.value = filteredQuestions.slice(0, questionLimit)
-  
+  const questionLimit = Math.min(settings.questionCount, loadedQuestions.length)
+  quizQuestions.value = loadedQuestions.slice(0, questionLimit)
+
   // Reset state
   currentQuestionIndex.value = 0
   score.value = 0
