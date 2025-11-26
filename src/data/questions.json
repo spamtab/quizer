@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Web Development",
+      "topic": "HTML Basics"
+    }
+  },
+  {
+    "id": 2,
+    "question": "Which CSS property is used to change the text color?",
+    "options": [
+      "font-color",
+      "text-color",
+      "color",
+      "text-style"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Web Development",
+      "topic": "CSS Basics"
+    }
+  },
+  {
+    "id": 3,
+    "question": "What is the correct syntax for referring to an external JavaScript file?",
+    "options": [
+      "<script href=\"app.js\">",
+      "<script name=\"app.js\">",
+      "<script src=\"app.js\">",
+      "<script file=\"app.js\">"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Web Development",
+      "topic": "JavaScript Basics"
+    }
+  },
+  {
+    "id": 4,
+    "question": "Which built-in method returns the length of a string?",
+    "options": [
+      "length()",
+      "size()",
+      "index()",
+      "length"
+    ],
+    "correctOption": 4,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "String Methods"
+    }
+  },
+  {
+    "id": 5,
+    "question": "How do you declare a JavaScript variable?",
+    "options": [
+      "variable carName;",
+      "var carName;",
+      "v carName;",
+      "declare carName;"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "Variables"
+    }
+  },
+  {
+    "id": 6,
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "*",
+      "-",
+      "=",
+      "x"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "Operators"
+    }
+  },
+  {
+    "id": 7,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Web Development",
+      "topic": "CSS Basics"
+    }
+  },
+  {
+    "id": 8,
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<script>",
+      "<style>",
+      "<styles>"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Web Development",
+      "topic": "HTML Basics"
+    }
+  },
+  {
+    "id": 9,
+    "question": "What is Vue.js?",
+    "options": [
+      "A JavaScript library for building user interfaces",
+      "A progressive JavaScript framework",
+      "A CSS framework",
+      "A backend framework"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Vue.js",
+      "topic": "Vue Basics"
+    }
+  },
+  {
+    "id": 10,
+    "question": "Which directive is used for two-way data binding in Vue?",
+    "options": [
+      "v-bind",
+      "v-model",
+      "v-for",
+      "v-if"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Vue.js",
+      "topic": "Directives"
+    }
+  },
+  {
+    "id": 11,
+    "question": "What is the virtual DOM?",
+    "options": [
+      "A physical copy of the DOM",
+      "A lightweight copy of the actual DOM",
+      "A browser feature",
+      "A CSS concept"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Vue.js",
+      "topic": "Vue Basics"
+    }
+  },
+  {
+    "id": 12,
+    "question": "Which method is used to create a Vue 3 application?",
+    "options": [
+      "new Vue()",
+      "createApp()",
+      "Vue.create()",
+      "initVue()"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Vue.js",
+      "topic": "Vue 3 API"
+    }
+  },
+  {
+    "id": 13,
+    "question": "What is the correct way to comment in JavaScript?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "/* This is a comment",
+      "** This is a comment **"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "Syntax"
+    }
+  },
+  {
+    "id": 14,
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Web Development",
+      "topic": "CSS Basics"
+    }
+  },
+  {
+    "id": 15,
+    "question": "What does DOM stand for?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Document Oriented Model",
+      "Digital Object Model"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "DOM Manipulation"
+    }
+  },
+  {
+    "id": 16,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": [
+      "styles",
+      "style",
+      "class",
+      "font"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Web Development",
+      "topic": "HTML Basics"
+    }
+  },
+  {
+    "id": 17,
+    "question": "What is the purpose of the 'use strict' directive?",
+    "options": [
+      "Makes code run faster",
+      "Enables strict mode for safer coding",
+      "Optimizes memory usage",
+      "Minifies the code"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "Best Practices"
+    }
+  },
+  {
+    "id": 18,
+    "question": "Which Vue lifecycle hook is called after the component is mounted?",
+    "options": [
+      "created()",
+      "mounted()",
+      "updated()",
+      "beforeMount()"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Vue.js",
+      "topic": "Lifecycle Hooks"
+    }
+  },
+  {
+    "id": 19,
+    "question": "What is the output of: typeof []?",
+    "options": [
+      "array",
+      "object",
+      "list",
+      "undefined"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "JavaScript",
+      "topic": "Data Types"
+    }
+  },
+  {
+    "id": 20,
+    "question": "Which CSS display value hides an element?",
+    "options": [
+      "display: hidden;",
+      "display: none;",
+      "display: invisible;",
+      "display: hide;"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Web Development",
+      "topic": "CSS Basics"
+    }
+  }
+]
