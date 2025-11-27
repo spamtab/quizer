@@ -32,11 +32,11 @@ const emit = defineEmits(['answer'])
 const selectedOption = ref(null)
 const isAnswered = ref(false)
 
-// Reset state when question changes
-watch(() => props.question.id, () => {
+// Reset state when question changes (deep watch for robustness)
+watch(() => props.question, () => {
   selectedOption.value = null
   isAnswered.value = false
-})
+}, { deep: true })
 
 const selectOption = (optionIndex) => {
   if (isAnswered.value) return
