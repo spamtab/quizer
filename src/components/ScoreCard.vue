@@ -51,7 +51,7 @@ const goHome = () => {
       
       <div class="btn-group">
         <button @click="retryQuiz" class="btn btn-success btn-large">
-          🔄 Retry Quiz
+          🔄 Retry
         </button>
         <button @click="goHome" class="btn btn-secondary btn-large">
           🏠 Go Home

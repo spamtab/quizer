@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "In game theory, a strategy is defined as:",
+    "options": [
+      "A single action taken at one stage",
+      "A comprehensive plan of actions across all possible scenarios",
+      "A prediction of the opponent's move",
+      "A government policy"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 2,
+    "question": "The Nash equilibrium is a set of strategies such that:",
+    "options": [
+      "No player can improve their payoff by changing strategies unilaterally",
+      "Players cooperate to maximize joint payoff",
+      "Each player chooses the strategy that maximizes opponent’s loss",
+      "Players alternate moves"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 3,
+    "question": "Dominant strategy is one that:",
+    "options": [
+      "Always gives the highest payoff regardless of opponents' actions",
+      "Is chosen by the strongest player",
+      "Requires cooperation",
+      "Is never a Nash equilibrium"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 4,
+    "question": "In the Prisoner's Dilemma, mutual defection is:",
+    "options": [
+      "Pareto optimal",
+      "A Nash equilibrium",
+      "Socially optimal",
+      "Impossible"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 5,
+    "question": "A zero-sum game is characterized by:",
+    "options": [
+      "All players gain together",
+      "All payoffs sum to zero",
+      "All strategies are identical",
+      "No strategic interaction"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 6,
+    "question": "Which concept refers to making decisions based on the assumption that other players are rational?",
+    "options": [
+      "Pareto optimality",
+      "Strategic dominance",
+      "Rational expectations",
+      "Backward induction"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 7,
+    "question": "The process of deducing optimal moves from the end of the game back to the start is called:",
+    "options": [
+      "Dominance",
+      "Backward induction",
+      "Strategic interaction",
+      "Forward reasoning"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 8,
+    "question": "If a player in a game never benefits from choosing a particular strategy, that strategy is:",
+    "options": [
+      "Dominant",
+      "Strictly dominated",
+      "Best response",
+      "Mixed"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 9,
+    "question": "Mixed strategy equilibria are relevant when:",
+    "options": [
+      "Players randomize among strategies",
+      "Players always have a dominant strategy",
+      "Games are cooperative",
+      "Payoffs are fixed"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 10,
+    "question": "Best response in game theory refers to:",
+    "options": [
+      "The strategy that guarantees the highest possible payoff",
+      "The strategy that maximizes a player's payoff given rivals’ strategies",
+      "A dominant strategy",
+      "Any Nash equilibrium strategy"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 11,
+    "question": "A symmetric game is one where:",
+    "options": [
+      "All players have access to the same strategies and payoffs depend only on strategy profiles",
+      "All players have identical payoffs",
+      "All players play simultaneously",
+      "All strategies are strictly dominated"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 12,
+    "question": "In repeated games, cooperation may emerge because:",
+    "options": [
+      "Players are irrational",
+      "Future payoffs matter",
+      "Players choose strictly dominated strategies",
+      "Each stage is a zero-sum game"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 13,
+    "question": "Payoff matrices are used primarily to analyze:",
+    "options": [
+      "Repeated games",
+      "Simultaneous-move games",
+      "Continuous strategies",
+      "Randomized payoffs"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 14,
+    "question": "A pure strategy involves:",
+    "options": [
+      "Randomizing actions",
+      "Choosing a single action with certainty",
+      "Switching between actions each round",
+      "Low payoffs"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 15,
+    "question": "Which game does not necessarily have a dominant strategy for each player?",
+    "options": [
+      "Prisoner’s Dilemma",
+      "Matching Pennies",
+      "Battle of the Sexes",
+      "All of the above"
+    ],
+    "correctOption": 4,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 16,
+    "question": "A focal point in game theory is:",
+    "options": [
+      "An outcome that players tend to select by intuition or convention",
+      "A Nash equilibrium",
+      "The dominant strategy",
+      "A strictly dominated strategy"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 17,
+    "question": "The strategy of tit-for-tat is commonly studied in:",
+    "options": [
+      "Single-shot games",
+      "Repeated Prisoner’s Dilemma",
+      "Matching Pennies",
+      "Zero-sum games"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 18,
+    "question": "The Minimax theorem is central to:",
+    "options": [
+      "Cooperative games",
+      "Zero-sum games",
+      "Stochastic games",
+      "Repeated games"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 19,
+    "question": "In a sequential game, the order of moves impacts outcomes because:",
+    "options": [
+      "Players may commit to strategies",
+      "Players cannot observe past actions",
+      "Payoffs are fixed",
+      "Players only have one strategy each"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 20,
+    "question": "A strategy is weakly dominant if:",
+    "options": [
+      "It strictly outperforms all others",
+      "It performs at least as well as every other strategy, and better in some cases",
+      "It is always strictly dominated",
+      "It is chosen by both players"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 21,
+    "question": "Which of the following games has no pure strategy Nash equilibrium?",
+    "options": [
+      "Prisoner's Dilemma",
+      "Matching Pennies",
+      "Battle of the Sexes",
+      "Stag Hunt"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 22,
+    "question": "The concept of subgame perfect equilibrium is relevant for:",
+    "options": [
+      "Simultaneous-move games",
+      "Sequential games",
+      "Zero-sum games",
+      "Random games"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 23,
+    "question": "If a player randomizes between two strategies to make their opponent indifferent, this is:",
+    "options": [
+      "Backward induction",
+      "Best response",
+      "Mixed strategy Nash equilibrium",
+      "Dominant strategy"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 24,
+    "question": "Two players must coordinate to achieve the highest payoff. This describes a:",
+    "options": [
+      "Coordination game",
+      "Zero-sum game",
+      "Prisoner's Dilemma",
+      "Dominance game"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 25,
+    "question": "What is the key challenge in the Battle of the Sexes game?",
+    "options": [
+      "Finding dominant strategies",
+      "Coordination without communication",
+      "Maximizing total payoff",
+      "Randomization"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 26,
+    "question": "A Nash equilibrium can exist in:",
+    "options": [
+      "Pure strategies only",
+      "Mixed strategies only",
+      "Either pure or mixed strategies",
+      "Not at all"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 27,
+    "question": "If a player always gets a lower payoff by choosing a certain strategy, this strategy is:",
+    "options": [
+      "Dominant",
+      "Strictly dominated",
+      "Best response",
+      "Mixed"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 28,
+    "question": "Which is true of Nash equilibrium?",
+    "options": [
+      "It is always Pareto efficient",
+      "No player can improve their payoff by changing strategies unilaterally",
+      "It must involve dominant strategies",
+      "It does not require mutual best responses"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 29,
+    "question": "A strategic move is:",
+    "options": [
+      "An action that changes the structure or payoffs of the game",
+      "A Nash equilibrium",
+      "A dominant strategy",
+      "Always illegal"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  },
+  {
+    "id": 30,
+    "question": "Best-response dynamics refer to:",
+    "options": [
+      "Players choosing their strategies sequentially to maximize payoffs against current choices",
+      "Players alternating dominant strategies",
+      "Randomized strategies only",
+      "Always leading to zero-sum outcomes"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Elementary strategic interaction"
+    }
+  }
+]

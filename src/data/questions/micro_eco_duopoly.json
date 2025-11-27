@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "In a standard Cournot duopoly with identical firms and linear demand, each firm chooses which variable?",
+    "options": [
+      "Its output quantity",
+      "Its price",
+      "Its advertising level",
+      "Its tax payment"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 2,
+    "question": "In a Bertrand duopoly with identical products and constant marginal costs, the Nash equilibrium price under usual assumptions is equal to:",
+    "options": [
+      "Monopoly price",
+      "Average cost",
+      "Marginal cost",
+      "Zero"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 3,
+    "question": "Which assumption is crucial for the Bertrand paradox result in a duopoly?",
+    "options": [
+      "Capacity constraints",
+      "Homogeneous products and identical constant marginal costs",
+      "Differentiated products",
+      "Collusion between firms"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 4,
+    "question": "In Cournot competition, each firm’s best response function describes:",
+    "options": [
+      "Its optimal price given rivals’ prices",
+      "Its optimal quantity given rivals’ quantities",
+      "Its optimal cost given rivals’ costs",
+      "Its optimal tax given government policy"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 5,
+    "question": "Consider a Cournot duopoly with market demand P = a − bQ and identical firms with constant marginal cost c < a. In equilibrium, total quantity is:",
+    "options": [
+      "(a − c) / b",
+      "(a − c) / (2b)",
+      "2(a − c) / (3b)",
+      "3(a − c) / (4b)"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 6,
+    "question": "In a Cournot duopoly with identical firms and linear demand, equilibrium price relative to monopoly and perfect competition prices is typically:",
+    "options": [
+      "Higher than monopoly price",
+      "Equal to monopoly price",
+      "Between monopoly and marginal cost prices",
+      "Below marginal cost"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 7,
+    "question": "Which of the following tends to increase total output in a Cournot duopoly?",
+    "options": [
+      "Higher marginal cost for both firms",
+      "Entry of another identical firm",
+      "Stronger product differentiation",
+      "Collusive agreement between firms"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 8,
+    "question": "In a Bertrand duopoly with homogeneous products and no capacity constraints, if one firm slightly undercuts the rival’s price above marginal cost, its demand becomes:",
+    "options": [
+      "Half the market",
+      "Zero",
+      "The entire market",
+      "Unchanged"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 9,
+    "question": "In Cournot competition, each firm’s residual demand curve depends on:",
+    "options": [
+      "Only its own cost function",
+      "Market demand minus rivals’ chosen quantities",
+      "Government-imposed price ceiling",
+      "Consumer income distribution only"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 10,
+    "question": "Which market structure is most closely approximated by a Cournot duopoly as the number of identical firms becomes very large?",
+    "options": [
+      "Monopoly",
+      "Perfect competition",
+      "Monopsony",
+      "Natural monopoly"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 11,
+    "question": "In a symmetric Cournot duopoly, if both firms reduce their marginal costs, the equilibrium outcome will feature:",
+    "options": [
+      "Lower output and higher price",
+      "Higher output and lower price",
+      "Unchanged output and price",
+      "Higher output and higher price"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 12,
+    "question": "Bertrand competition with differentiated products typically leads to equilibrium prices that are:",
+    "options": [
+      "Equal to marginal cost",
+      "Below marginal cost",
+      "Above marginal cost",
+      "Undefined"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 13,
+    "question": "In a simple Cournot duopoly, each firm assumes that its rival’s output:",
+    "options": [
+      "Will adjust immediately to any change it makes",
+      "Is fixed when choosing its own output",
+      "Is chosen to maximize joint profits",
+      "Is equal to zero"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a key difference between Cournot and Bertrand duopoly models?",
+    "options": [
+      "Number of firms in the industry",
+      "Time horizon of firms’ decisions",
+      "Choice variable: quantity versus price",
+      "Presence of marginal cost"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 15,
+    "question": "In a Bertrand duopoly with identical costs and homogeneous products, if both firms set the same price equal to marginal cost, then each firm’s profit is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero economic profit",
+      "Infinite"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 16,
+    "question": "Suppose a Cournot duopoly faces linear demand and symmetric costs. If one firm increases its output along the best response function, the other firm’s best response is to:",
+    "options": [
+      "Increase its own output",
+      "Decrease its own output",
+      "Keep output constant",
+      "Exit the market"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 17,
+    "question": "In Cournot duopoly, a reaction function that is downward sloping indicates that outputs are:",
+    "options": [
+      "Strategic complements",
+      "Strategic substitutes",
+      "Perfectly correlated",
+      "Independent"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 18,
+    "question": "In Bertrand competition with capacity constraints, the equilibrium price relative to marginal cost is most likely:",
+    "options": [
+      "Exactly equal to marginal cost",
+      "Below marginal cost",
+      "Above marginal cost",
+      "Unrelated to marginal cost"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 19,
+    "question": "Which statement about profits is typically correct in a symmetric Cournot duopoly versus Bertrand duopoly with homogeneous goods and identical costs?",
+    "options": [
+      "Cournot profits are lower than Bertrand profits",
+      "Cournot and Bertrand profits are always equal",
+      "Cournot profits are higher than Bertrand profits",
+      "Both yield zero profits"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 20,
+    "question": "In a linear demand Cournot duopoly with zero marginal cost, which outcome holds for total quantity compared to monopoly?",
+    "options": [
+      "Duopoly quantity is lower than monopoly quantity",
+      "Duopoly quantity equals monopoly quantity",
+      "Duopoly quantity lies between monopoly and perfect competition quantities",
+      "Duopoly quantity equals perfect competition quantity"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 21,
+    "question": "In the Stackelberg model compared to the Cournot model, the leader firm typically:",
+    "options": [
+      "Produces less output and earns lower profit",
+      "Produces more output and earns higher profit",
+      "Produces the same output and profit",
+      "Always earns zero profit"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 22,
+    "question": "Which assumption erodes the Bertrand paradox by preventing price from being bid down to marginal cost?",
+    "options": [
+      "Perfect information",
+      "Infinite capacity",
+      "Product differentiation",
+      "Identical firms"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 23,
+    "question": "In Cournot duopoly, the Nash equilibrium is obtained by:",
+    "options": [
+      "Maximizing joint profits",
+      "Solving each firm’s best response simultaneously",
+      "Setting price equal to average cost",
+      "Allocating market shares equally by assumption"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 24,
+    "question": "If two firms in a Bertrand duopoly with homogeneous products collude perfectly, the resulting price is closest to:",
+    "options": [
+      "Marginal cost",
+      "Monopoly price",
+      "Average variable cost",
+      "Zero"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 25,
+    "question": "Which of the following best describes the strategic variable in Bertrand competition?",
+    "options": [
+      "Quantity of output",
+      "Quality level",
+      "Price of the product",
+      "Number of employees"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 26,
+    "question": "In a simple Cournot duopoly, if one firm unilaterally reduces its output from the Nash equilibrium quantity, holding the rival’s quantity fixed, its profit will typically:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged",
+      "Become negative"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 27,
+    "question": "Under Bertrand competition with identical firms and homogeneous products, if marginal cost increases for both firms, the equilibrium price will:",
+    "options": [
+      "Remain at the old marginal cost",
+      "Fall below the new marginal cost",
+      "Rise to the new marginal cost",
+      "Remain unchanged at zero"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 28,
+    "question": "In Cournot duopoly, if market demand becomes more elastic while costs are unchanged, the equilibrium mark-up over marginal cost tends to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stay the same",
+      "Become negative"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 29,
+    "question": "When the number of Cournot competitors increases without bound, the market outcome converges to:",
+    "options": [
+      "Monopoly outcome",
+      "Bertrand outcome with differentiation",
+      "Perfectly competitive outcome",
+      "Monopsony outcome"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  },
+  {
+    "id": 30,
+    "question": "In a Cournot duopoly with identical costs, each firm’s equilibrium quantity compared to monopoly quantity is:",
+    "options": [
+      "Equal to the entire monopoly quantity",
+      "Equal to half the monopoly quantity",
+      "Equal to one-third of monopoly quantity",
+      "Equal to two-thirds of monopoly quantity"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Duopoly with Cournot and Bertrand competition"
+    }
+  }
+]

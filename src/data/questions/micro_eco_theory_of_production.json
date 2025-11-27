@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "The law of diminishing marginal returns applies when:",
+    "options": [
+      "All inputs are increased proportionally",
+      "At least one input is fixed while others are variable",
+      "Inputs are used in perfect proportions",
+      "Firms operate in the long run"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 2,
+    "question": "The isoquant curve represents:",
+    "options": [
+      "Combinations of inputs producing the same output",
+      "Combinations of outputs with the same profit",
+      "Combinations of prices that remain constant",
+      "Combinations of utility levels"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 3,
+    "question": "A production function showing constant returns to scale implies:",
+    "options": [
+      "Output increases less than proportionately with inputs",
+      "Output increases more than proportionately with inputs",
+      "Output increases proportionately with inputs",
+      "Output remains unchanged with increased inputs"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 4,
+    "question": "Marginal product becomes negative when:",
+    "options": [
+      "Total product is at its maximum",
+      "Total product begins to fall",
+      "Average product is increasing",
+      "Marginal cost is constant"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 5,
+    "question": "An isoquant is convex to the origin because of:",
+    "options": [
+      "Increasing marginal rate of technical substitution",
+      "Constant marginal rate of technical substitution",
+      "Diminishing marginal rate of technical substitution",
+      "Negative marginal productivity"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 6,
+    "question": "The expansion path shows:",
+    "options": [
+      "Optimal input combinations at different output levels",
+      "Optimal consumption at different income levels",
+      "Cost curves of the firm",
+      "Profit maximization levels"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 7,
+    "question": "Increasing returns to scale occur when:",
+    "options": [
+      "Output increases less than input increases",
+      "Output increases more than input increases",
+      "Input increases but output remains constant",
+      "Marginal product equals zero"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 8,
+    "question": "In short run production, the shape of the marginal product curve is primarily due to:",
+    "options": [
+      "Law of supply",
+      "Law of diminishing marginal returns",
+      "Law of demand",
+      "Perfect competition"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 9,
+    "question": "Total product increases at an increasing rate when:",
+    "options": [
+      "Marginal product is rising",
+      "Marginal product is falling but positive",
+      "Marginal product is zero",
+      "Average product is constant"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 10,
+    "question": "Returns to scale refer to changes in:",
+    "options": [
+      "Output when all inputs change",
+      "Output when only one input changes",
+      "Cost when wages change",
+      "Profit when price changes"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 11,
+    "question": "The marginal rate of technical substitution measures:",
+    "options": [
+      "Rate at which output substitutes capital",
+      "Rate at which labor substitutes output",
+      "Rate at which labor substitutes capital",
+      "Rate at which cost substitutes profit"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 12,
+    "question": "If total product is maximum, marginal product is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Maximum"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 13,
+    "question": "The Cobb-Douglas production function typically exhibits:",
+    "options": [
+      "Constant elasticity of substitution",
+      "Infinite elasticity of substitution",
+      "Zero elasticity of substitution",
+      "Negative elasticity of substitution"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 14,
+    "question": "A ridge line in production theory indicates:",
+    "options": [
+      "Area of rational production",
+      "Point of profit maximization",
+      "Cost minimization area",
+      "Consumer equilibrium"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 15,
+    "question": "Labor becomes inefficient when marginal product is:",
+    "options": [
+      "Constant",
+      "Increasing",
+      "Zero or negative",
+      "Equal to average product"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 16,
+    "question": "The point where marginal product equals average product is where average product is:",
+    "options": [
+      "Minimum",
+      "Maximum",
+      "Constant",
+      "Negative"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 17,
+    "question": "Isoquants cannot intersect because:",
+    "options": [
+      "Marginal product is constant",
+      "Different output levels cannot have the same combination of inputs",
+      "Costs remain the same",
+      "Firms maximize utility"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 18,
+    "question": "A homogeneous production function of degree one implies:",
+    "options": [
+      "Decreasing returns to scale",
+      "Increasing returns to scale",
+      "Constant returns to scale",
+      "Zero returns to scale"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 19,
+    "question": "Short run production involves:",
+    "options": [
+      "All inputs variable",
+      "At least one input fixed",
+      "No fixed inputs",
+      "Only capital variable"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 20,
+    "question": "The long run is defined as a period in which:",
+    "options": [
+      "Only labor varies",
+      "Capital is fixed",
+      "All inputs are variable",
+      "Output is constant"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 21,
+    "question": "The law of variable proportions applies to:",
+    "options": [
+      "Long run production",
+      "Short run production",
+      "Perfect competition",
+      "Monopoly"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 22,
+    "question": "Inputs that cannot be easily adjusted in short run are called:",
+    "options": [
+      "Variable inputs",
+      "Fixed inputs",
+      "Marginal inputs",
+      "Derived inputs"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 23,
+    "question": "When average product is falling, marginal product must be:",
+    "options": [
+      "Above average product",
+      "Equal to average product",
+      "Below average product",
+      "Zero"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 24,
+    "question": "A firm chooses an input combination where:",
+    "options": [
+      "MRTS equals the ratio of input prices",
+      "MRTS is zero",
+      "MRTS is infinite",
+      "Costs equal revenue"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 25,
+    "question": "Neutral technical progress implies:",
+    "options": [
+      "Output decreases with same inputs",
+      "Marginal product of labor increases more than capital",
+      "Marginal products of inputs rise proportionately",
+      "Capital becomes obsolete"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 26,
+    "question": "Stage II of production is considered rational because:",
+    "options": [
+      "Marginal product is negative",
+      "Average product is increasing",
+      "Marginal product is positive and falling",
+      "Total product is decreasing"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 27,
+    "question": "Total product decreases when marginal product is:",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "Constant"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 28,
+    "question": "Production functions indicate:",
+    "options": [
+      "Relationship between cost and output",
+      "Relationship between inputs and output",
+      "Relationship between price and demand",
+      "Relationship between utility and consumption"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 29,
+    "question": "The elasticity of substitution measures:",
+    "options": [
+      "Ease of substituting output for profit",
+      "Ease of substituting one input for another",
+      "Ease of substituting income for consumption",
+      "Ease of substituting wage for rent"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  },
+  {
+    "id": 30,
+    "question": "The point of inflection on the total product curve corresponds to:",
+    "options": [
+      "Maximum marginal product",
+      "Zero marginal product",
+      "Negative marginal product",
+      "Minimum marginal product"
+    ],
+    "correctOption": 1,
+    "subject": { "name": "Micro Economics", "topic": "Theory of Production" }
+  }
+]

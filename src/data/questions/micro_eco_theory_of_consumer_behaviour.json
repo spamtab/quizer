@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes the concept of diminishing marginal utility?",
+    "options": [
+      "Total satisfaction increases as consumption increases",
+      "Additional satisfaction from consuming one more unit declines",
+      "Consumers always prefer more of a good",
+      "Utility remains constant regardless of consumption"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 2,
+    "question": "Indifference curves are typically convex to the origin because:",
+    "options": [
+      "Consumers prefer extremes of goods",
+      "Marginal rate of substitution increases",
+      "Marginal rate of substitution diminishes",
+      "Utility decreases with more consumption"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 3,
+    "question": "A consumer reaches equilibrium when:",
+    "options": [
+      "The indifference curve lies above the budget line",
+      "The budget line is tangent to the indifference curve",
+      "The consumer spends all income on one good",
+      "The slope of the budget line is zero"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 4,
+    "question": "The budget line shifts parallel to the right when:",
+    "options": [
+      "Price of the good rises",
+      "Price of the good falls",
+      "Consumer income increases",
+      "Consumer preferences change"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 5,
+    "question": "If two goods are perfect substitutes, the indifference curves will be:",
+    "options": [
+      "L-shaped",
+      "Downward sloping straight lines",
+      "Upward sloping curves",
+      "Convex to the origin"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 6,
+    "question": "According to the law of equi-marginal utility, a consumer allocates income such that:",
+    "options": [
+      "Total utility from each good is equal",
+      "Marginal utility per unit of money spent is equal across goods",
+      "Average utility is maximized",
+      "Marginal utility is constant"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 7,
+    "question": "The point where an indifference curve touches but does not cross the budget line represents:",
+    "options": [
+      "Inefficient consumption",
+      "Consumer equilibrium",
+      "Negative utility",
+      "Marginal utility maximization only for one good"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 8,
+    "question": "A higher indifference curve represents:",
+    "options": [
+      "Lower level of satisfaction",
+      "Higher price of goods",
+      "Higher level of satisfaction",
+      "No change in utility"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 9,
+    "question": "The marginal rate of substitution (MRS) measures:",
+    "options": [
+      "The rate at which income increases utility",
+      "The trade-off between goods to maintain utility",
+      "The slope of the budget line",
+      "Elasticity of demand"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 10,
+    "question": "If an indifference curve is concave to the origin, it violates the assumption of:",
+    "options": [
+      "Transitivity",
+      "Completeness",
+      "Diminishing MRS",
+      "Rationality"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 11,
+    "question": "A Giffen good is characterized by:",
+    "options": [
+      "Negative income elasticity",
+      "Upward sloping demand curve",
+      "Perfectly elastic demand",
+      "Zero substitution effect"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 12,
+    "question": "The substitution effect occurs when:",
+    "options": [
+      "Income increases holding prices constant",
+      "Relative prices change holding utility constant",
+      "Preferences change",
+      "All prices change proportionally"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 13,
+    "question": "The income effect of a price fall for a normal good will:",
+    "options": [
+      "Reduce quantity demanded",
+      "Increase quantity demanded",
+      "Have no impact on demand",
+      "Reverse the substitution effect"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 14,
+    "question": "Hicksian demand curves hold which variable constant?",
+    "options": [
+      "Income",
+      "Utility",
+      "Market prices",
+      "Consumer tastes"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 15,
+    "question": "Slutsky decomposition separates price effect into:",
+    "options": [
+      "Income and wealth effects",
+      "Income and substitution effects",
+      "Income and price elasticity",
+      "Indifference and budget effects"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 16,
+    "question": "Engel curves show the relationship between:",
+    "options": [
+      "Price and quantity demanded",
+      "Income and quantity demanded",
+      "Utility and consumption",
+      "Price and utility"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 17,
+    "question": "If two goods are perfect complements, the indifference curves will be:",
+    "options": [
+      "Straight lines",
+      "L-shaped",
+      "Convex curves",
+      "Parallel to the axes"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 18,
+    "question": "Revealed preference theory assumes that consumers:",
+    "options": [
+      "Maximize cardinal utility",
+      "Make consistent choices",
+      "Do not face budget constraints",
+      "Prefer less to more"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 19,
+    "question": "Cardinal utility theory differs from ordinal utility theory because it:",
+    "options": [
+      "Ranks preferences without measurement",
+      "Measures utility in absolute terms",
+      "Rejects the concept of marginal utility",
+      "Does not assume rationality"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 20,
+    "question": "The slope of the budget line represents:",
+    "options": [
+      "Marginal utility ratio",
+      "Opportunity cost between goods",
+      "Total spending capacity",
+      "Income elasticity"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 21,
+    "question": "A price consumption curve traces the consumer’s equilibrium at:",
+    "options": [
+      "Different income levels",
+      "Different price levels of a good",
+      "Different preference schedules",
+      "Different utility levels"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 22,
+    "question": "A good with zero income elasticity of demand is classified as:",
+    "options": [
+      "Normal good",
+      "Inferior good",
+      "Giffen good",
+      "Neutral good"
+    ],
+    "correctOption": 4,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 23,
+    "question": "The elasticity of substitution measures:",
+    "options": [
+      "Change in income relative to demand",
+      "Ease of substituting one good for another",
+      "Change in demand due to price",
+      "Satisfaction level from consumption"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 24,
+    "question": "Consumer surplus represents:",
+    "options": [
+      "Difference between marginal cost and price",
+      "Difference between willingness to pay and actual price",
+      "Total utility from consumption",
+      "Income saved after consumption"
+    ],
+    "correctOption": 2,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  },
+  {
+    "id": 25,
+    "question": "The assumption of transitivity implies that:",
+    "options": [
+      "Consumers prefer more to less",
+      "Preferences remain constant over time",
+      "If A is preferred to B and B to C, then A is preferred to C",
+      "Utility is measurable"
+    ],
+    "correctOption": 3,
+    "subject": { "name": "Micro Economics", "topic": "Theory of consumer behaviour" }
+  }
+]

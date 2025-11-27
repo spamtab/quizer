@@ -1,6 +1,7 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue'
 import { useRouter } from 'vue-router'
+import { getSubjectTopicMap } from '../data/questionIndex.js'
 
 
 const router = useRouter()
@@ -14,11 +15,8 @@ const selectedSubject = ref('all')
 const selectedTopic = ref('all')
 
 
-// Static subject and topic lists (update as you add more)
-const subjectTopicMap = {
-  'Web Development': ['HTML Basics', 'CSS Basics', 'JavaScript Basics'],
-  'JavaScript': ['Variables', 'Operators', 'String Methods']
-}
+// Dynamically generated subject/topic map from available JSON files
+const subjectTopicMap = getSubjectTopicMap()
 
 const subjects = computed(() => ['all', ...Object.keys(subjectTopicMap)])
 
@@ -26,7 +24,7 @@ const topics = computed(() => {
   if (selectedSubject.value === 'all') {
     // All topics from all subjects
     const allTopics = Object.values(subjectTopicMap).flat()
-    return ['all', ...allTopics]
+    return ['all', ...Array.from(new Set(allTopics))]
   }
   const subjectTopics = subjectTopicMap[selectedSubject.value] || []
   return ['all', ...subjectTopics]
@@ -72,8 +70,7 @@ const onSubjectChange = () => {
     <div class="container">
       <div class="card">
         <div class="card-header">
-          <h2>⚙️ Quiz Settings</h2>
-          <p>Customize your quiz experience</p>
+          <h2>⚙️ Settings</h2>
         </div>
 
         <div class="form-group">

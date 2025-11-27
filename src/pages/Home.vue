@@ -17,8 +17,7 @@ const goToSettings = () => {
     <div class="container">
       <div class="card text-center">
         <div class="card-header">
-          <h1>🎯 Quiz App</h1>
-          <p>Test your knowledge with interactive quizzes</p>
+          <h2>quiz</h2>
         </div>
         
         <div class="btn-group">

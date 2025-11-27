@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Which condition is essential for a perfectly competitive market?",
+    "options": [
+      "Product differentiation",
+      "Free entry and exit",
+      "Few sellers",
+      "High transaction costs"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 2,
+    "question": "In perfect competition, firms are considered:",
+    "options": [
+      "Price makers",
+      "Price takers",
+      "Collusive decision makers",
+      "Regulated monopolists"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 3,
+    "question": "In the long run under perfect competition, firms earn:",
+    "options": [
+      "Supernormal profit",
+      "Normal profit",
+      "Losses",
+      "Unlimited returns"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 4,
+    "question": "The supply curve of a perfectly competitive firm is given by the portion of:",
+    "options": [
+      "MC above AVC",
+      "AC above MC",
+      "AVC above AC",
+      "MC below AVC"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 5,
+    "question": "In perfect competition, price equals:",
+    "options": [
+      "Marginal cost",
+      "Average cost",
+      "Marginal revenue",
+      "All of the above"
+    ],
+    "correctOption": 4,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 6,
+    "question": "A perfectly elastic demand curve for a firm implies:",
+    "options": [
+      "Firm can increase price",
+      "Firm controls market demand",
+      "Infinite buyers at market price",
+      "Downward sloping demand"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 7,
+    "question": "Short\u2010run profit maximization occurs where:",
+    "options": [
+      "MR = AR",
+      "MR = MC",
+      "MC = AC",
+      "AC = AR"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 8,
+    "question": "A firm shuts down in the short run when:",
+    "options": [
+      "P < MC",
+      "P < MR",
+      "P < AVC",
+      "P < AC"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 9,
+    "question": "Which feature ensures identical prices in perfect competition?",
+    "options": [
+      "Barriers to entry",
+      "Homogeneous product",
+      "Government price regulation",
+      "Brand loyalty"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 10,
+    "question": "In perfect competition, allocative efficiency occurs because:",
+    "options": [
+      "P > MC",
+      "P = MC",
+      "P < MC",
+      "MC is irrelevant"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 11,
+    "question": "In a perfectly competitive market, the demand curve facing an individual firm is:",
+    "options": [
+      "Downward sloping",
+      "Horizontal",
+      "Vertical",
+      "Kinked"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 12,
+    "question": "Which factor does NOT characterize perfect competition?",
+    "options": [
+      "Many buyers and sellers",
+      "Perfect information",
+      "Product branding",
+      "Homogeneous goods"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 13,
+    "question": "Productive efficiency in perfect competition occurs because firms produce at:",
+    "options": [
+      "Minimum AC",
+      "Maximum AC",
+      "Rising MC",
+      "Declining AVC"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 14,
+    "question": "In the long run, entry and exit of firms lead the market to:",
+    "options": [
+      "Losses",
+      "Normal profit",
+      "Supernormal profits",
+      "Monopoly"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 15,
+    "question": "The marginal revenue curve for a perfectly competitive firm is:",
+    "options": [
+      "Downward sloping",
+      "Equal to price",
+      "Above demand curve",
+      "Vertical"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 16,
+    "question": "Which of the following does a firm maximize under perfect competition?",
+    "options": [
+      "Total revenue",
+      "Market share",
+      "Profit",
+      "Cost minimization only"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 17,
+    "question": "If P = AC in the long run, it implies:",
+    "options": [
+      "Normal profit",
+      "Loss",
+      "Supernormal profit",
+      "Shutdown condition"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 18,
+    "question": "Perfect competition leads to:",
+    "options": [
+      "Underproduction",
+      "Overproduction",
+      "Socially optimal output",
+      "Deadweight loss"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 19,
+    "question": "A firm increases output as long as:",
+    "options": [
+      "MR > MC",
+      "MC > MR",
+      "AC > MR",
+      "AVC > MR"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 20,
+    "question": "Which assumption ensures no firm influences price?",
+    "options": [
+      "Single seller",
+      "Large number of firms",
+      "Product innovation",
+      "Patent ownership"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 21,
+    "question": "In perfect competition, long\u2010run supply curve is:",
+    "options": [
+      "Upward sloping",
+      "Horizontal",
+      "Vertical",
+      "Kinked"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 22,
+    "question": "Economic profit in short run can be:",
+    "options": [
+      "Positive only",
+      "Zero only",
+      "Negative only",
+      "Positive, zero, or negative"
+    ],
+    "correctOption": 4,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 23,
+    "question": "Which curve is identical to the demand curve of a competitive firm?",
+    "options": [
+      "MC",
+      "AC",
+      "AR",
+      "AVC"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 24,
+    "question": "Entry of new firms in the market causes:",
+    "options": [
+      "Price to rise",
+      "Price to fall",
+      "Cost to fall",
+      "Demand to increase"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 25,
+    "question": "A firm exits the market in long run when:",
+    "options": [
+      "P < AC",
+      "P > MC",
+      "P > MR",
+      "P = AVC"
+    ],
+    "correctOption": 1,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 26,
+    "question": "Perfect competition assumes mobility of:",
+    "options": [
+      "Labor only",
+      "Capital only",
+      "Labor and capital",
+      "Neither labor nor capital"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 27,
+    "question": "Consumer surplus in perfect competition is:",
+    "options": [
+      "Zero",
+      "Maximized",
+      "Minimized",
+      "Negative"
+    ],
+    "correctOption": 2,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 28,
+    "question": "Producer surplus in long run is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Unlimited"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 29,
+    "question": "Perfect competition results in:",
+    "options": [
+      "X\u2010inefficiency",
+      "No productive efficiency",
+      "Minimum cost production",
+      "Welfare loss"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  },
+  {
+    "id": 30,
+    "question": "Which curve determines short\u2010run supply?",
+    "options": [
+      "AC",
+      "AVC",
+      "MC above AVC",
+      "MR"
+    ],
+    "correctOption": 3,
+    "subject": {
+      "name": "Micro Economics",
+      "topic": "Market structure under perfect competition"
+    }
+  }
+]

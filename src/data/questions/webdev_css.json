@@ -1,6 +1,6 @@
 [
   {
-    "id": 2,
+    "id": 5,
     "question": "Which CSS property is used to change the text color?",
     "options": [
       "font-color", "text-color", "color", "text-style"
@@ -9,7 +9,7 @@
     "subject": { "name": "Web Development", "topic": "CSS Basics" }
   },
   {
-    "id": 7,
+    "id": 6,
     "question": "What does CSS stand for?",
     "options": [
       "Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"
@@ -18,7 +18,7 @@
     "subject": { "name": "Web Development", "topic": "CSS Basics" }
   },
   {
-    "id": 14,
+    "id": 7,
     "question": "Which CSS property controls the text size?",
     "options": [
       "font-style", "text-size", "font-size", "text-style"
@@ -27,7 +27,7 @@
     "subject": { "name": "Web Development", "topic": "CSS Basics" }
   },
   {
-    "id": 20,
+    "id": 8,
     "question": "Which CSS display value hides an element?",
     "options": [
       "display: hidden;", "display: none;", "display: invisible;", "display: hide;"
